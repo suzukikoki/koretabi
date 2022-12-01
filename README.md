@@ -1,24 +1,47 @@
-# README
+# koretabi
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
 
-Things you may want to cover:
+**<目的>**<br>
+  旅先での写真を投稿するサイトです<br>
+  旅の記録になるだけでなく<br>
+  誰かの旅のきっかけになります<br>
 
-* Ruby version
+**<機能>**<br>
+*画像を投稿*<br>
+  ･投稿時にはmapにマーカーを付与し紐付ける<br>
+  ･投稿時にはタグ付けができる。<br>
 
-* System dependencies
+*投稿を閲覧*<br>
+  ･mapのマーカーをクリックすると詳細ページに推移する<br>
+  ･投稿に対しコメントができる。<br>
+  ･投稿に対しいいね、お気に入りができる。<br>
+  
+  
+### サイトテーマ
+  旅の写真を共有するコミュニティサイト<br>
 
-* Configuration
+### テーマを選んだ理由
+  何もすることのない休日をなくすために、<br>
+  休日の旅のきっかけを作りたかったから<br>
+  
+### ターゲットユーザ
+  旅に出たい人<br>
 
-* Database creation
+### 主な利用シーン
+  ･旅の記録をつけたい時に<br>
+  ･旅の目的地を決める時に<br>
 
-* Database initialization
+## 設計書
+<...>
 
-* How to run the test suite
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 使用素材
+- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
+- 使用しない場合は、使用素材の項目をREADMEから削除してください。
