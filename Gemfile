@@ -63,3 +63,5 @@ gem 'image_processing', '~> 1.2'
 gem 'gmaps4rails'
 #座標
 gem 'geocoder'
+#環境変数を扱う
+gem 'dotenv-rails'
